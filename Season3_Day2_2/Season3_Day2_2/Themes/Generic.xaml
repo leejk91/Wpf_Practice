@@ -1,0 +1,9 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/Season3_Day2_2;component/Themes/Units/StudyListBox.xaml"/>
+        <ResourceDictionary Source="/Season3_Day2_2;component/Themes/Units/StudyListBoxItem.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
